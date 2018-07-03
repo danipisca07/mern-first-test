@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MongoConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="authenticationDatabase" value="danipisca07devtest" />
+          <option name="authenticationMechanism" value="SCRAM-SHA-1" />
+          <option name="label" value="danipisca07devtest su mlab" />
+          <option name="password" value="admin00" />
+          <option name="serverUrls">
+            <list>
+              <option value="ds161710.mlab.com:61710" />
+            </list>
+          </option>
+          <option name="sshTunnelingConfiguration">
+            <SshTunnelingConfiguration />
+          </option>
+          <option name="userDatabase" value="danipisca07devtest" />
+          <option name="username" value="admin" />
+        </ServerConfiguration>
+      </list>
+    </option>
+    <option name="shellPath" value="C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe" />
+  </component>
+</project>
