@@ -17,5 +17,4 @@ var test1 = new TestObj({name: 'Nome1'});
 // });
 
 app.get('/', function (req,res){
-   P
 });
